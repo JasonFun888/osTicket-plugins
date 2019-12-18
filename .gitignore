@@ -17,3 +17,10 @@ lib/
 composer.phar
 composer.lock
 composer.json
+
+
+# Ignore ZendStudio Project Files
+.buildpath
+.project
+.settings/
+
